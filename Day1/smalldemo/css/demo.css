@@ -1,0 +1,41 @@
+.container{
+    width: 100%;
+}
+.left{
+    width: 300px;
+    height: 800px;
+    background-color: #68CFEF;
+}
+.container .left,.container .right{
+    float: left;
+}
+
+.container .right{
+    width: 400px;
+    height: 500px;
+    background-color: aquamarine;
+}
+
+.left h2{
+    text-align: center;
+    color: #fff;
+}
+
+.left .info{
+    width: 200px;
+    height: 200px;
+    border: 2px solid #fff;
+    margin: 0 auto;
+}
+
+.info1{
+    margin-left: 30px;
+}
+
+.info1 h3{
+    color: #fff;
+}
+
+.info1 p{
+    margin-bottom: 30px;
+}

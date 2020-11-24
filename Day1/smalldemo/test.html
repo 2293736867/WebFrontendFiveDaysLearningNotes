@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        *{
+            padding: 0;
+            margin: 0;
+        }
+        .white{
+            color: white;
+            font-weight: bold;
+            margin-left: 10px;
+            margin-top: 20px;
+        }
+        .black{
+            color: black;
+            margin-left: 10px;
+        }
+        .contact{
+            color: white;
+            font-weight: bold;
+            background-color: #68CFEF;
+        }
+        .sendButton{
+            background-color: orange;
+            color: white;
+            font-weight: bold;
+        }
+        /*pc>=992*/
+        @media screen and (min-width: 992px) {
+            .content .head{
+                width: 17%;
+                height: 100%;
+                float: left;
+                background-color: #68CFEF;
+            }
+            .content .body{
+                float: left;
+            }
+        }
+        /*768<=pad<=992*/
+        @media screen and (min-width: 768px) and (max-width: 991px){
+            .content div{
+                width: 47%;
+                height: 200px;
+            }
+        }
+        /*phone<=767*/
+        @media screen and (max-width: 767px){
+            .content div{
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <div class="head">
+            <p class="white">USER NAME</p>
+            <br>
+            <img src="./avatar.png" alt="cc" height="100px" style="margin-left: 10px;border: 1px solid white;">
+            <div>
+                <div class="white">
+                    PHONE
+                </div>
+                <div class="black">
+                    +00 234 23423 23423
+                </div>
+            </div>
+            <div>
+                <div class="white">
+                    EMAIL
+                </div>
+                <div class="black">
+                    main@example.com
+                </div>
+            </div>
+            <div>
+                <div class="white">ADDRESS</div>
+                <div class="black">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, maxime, sequi? Consequatur cupiditate, dolor ducimus eaque eligendi fuga, ipsa ipsam libero magni, mollitia natus quae rerum sapiente vero voluptates voluptatibus?
+                </div>
+            </div>
+        </div>
+        <div class="body">
+            <div>
+                <div>Resume</div>
+                <div>Print CV</div>
+                <div>Email me</div>
+                <div>View photo</div>
+            </div>
+            <div>
+                Contact
+            </div>
+            <table>
+                <tr><td>
+                    <input placeholder="Name">
+                </td></tr>
+                <tr><td>
+                    <input placeholder="Email">
+                </td></tr>
+                <tr><td>
+                    <input placeholder="Subject">
+                </td></tr>
+                <tr><td>
+                    <input placeholder="Message">
+                </td></tr>
+            </table>
+            <div class="sendButton">
+                Send
+            </div>
+        </div>
+    </div>
+</body>
+</html>
