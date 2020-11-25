@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2471be8d-8513-4c2a-979d-08c46591f4f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="boot" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kkHY0NXAdj3xwyTmZuxsiSDNxi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="editor.breadcrumbs" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2471be8d-8513-4c2a-979d-08c46591f4f5" name="Default Changelist" comment="" />
+      <created>1606237712725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606237712725</updated>
+      <workItem from="1606237713748" duration="8394000" />
+      <workItem from="1606284035048" duration="991000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="647" y="69" key="SettingsEditor" timestamp="1606239074830">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="647" y="69" key="SettingsEditor/0.0.1920.1043@0.0.1920.1043" timestamp="1606239074830" />
+    <state x="869" y="126" width="1045" height="790" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606238776457">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="869" y="126" width="1045" height="790" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1043@0.0.1920.1043" timestamp="1606238776457" />
+    <state x="999" y="174" width="875" height="663" key="recent.locations.popup" timestamp="1606284301261">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="999" y="174" width="875" height="663" key="recent.locations.popup/0.0.1920.1043@0.0.1920.1043" timestamp="1606284301261" />
+  </component>
+</project>
