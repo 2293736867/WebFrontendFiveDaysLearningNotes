@@ -6,7 +6,7 @@
 - `smalldemo`是一个简单的页面实现，图片在文件夹里
 - `boot`是初步使用`Bootstrap`栅格系统的`Demo`
 
-[一些凌乱的笔记](https://github.com/2293736867/WebFrontendFiveDaysLearningNotes/blob/master/Day1/Notes.md)
+[笔记](https://github.com/2293736867/WebFrontendFiveDaysLearningNotes/blob/master/Day1/Notes.md)
 
 # 3 Day2
 ## 3.1 内容
@@ -25,7 +25,7 @@
 
 ## 3.3 笔记
 
-[笔记]()
+[笔记](https://github.com/2293736867/WebFrontendFiveDaysLearningNotes/blob/master/Day2/notes.md)
 
 # 4 Day3
 
