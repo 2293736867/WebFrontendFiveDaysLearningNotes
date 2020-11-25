@@ -27,7 +27,7 @@
 
 # Day3
 
-- `bootstrap`模仿了(这里)[http://doc.canglaoshi.org/tstore_v1/web/index.html]组建了一个综合的页面
+- `bootstrap`模仿了[这里](http://doc.canglaoshi.org/tstore_v1/web/index.html)组建了一个综合的页面
 - `node`是一个简单使用`express`的例子
 
 # `DemoProject`
