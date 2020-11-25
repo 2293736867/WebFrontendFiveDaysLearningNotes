@@ -23,13 +23,11 @@
 - `demos`：一些例子合集
 
 
-## 3.3 笔记
-
-[笔记](https://github.com/2293736867/WebFrontendFiveDaysLearningNotes/blob/master/Day2/notes.md)
+## 3.3 [笔记](https://github.com/2293736867/WebFrontendFiveDaysLearningNotes/blob/master/Day2/notes.md)
 
 # 4 Day3
 
-- `bootstrap`模仿了`http://doc.canglaoshi.org/tstore_v1/web/index.html`组建了一个综合的页面
+- `bootstrap`模仿了(这里)[http://doc.canglaoshi.org/tstore_v1/web/index.html]组建了一个综合的页面
 - `node`是一个简单使用`express`的例子
 
 # `DemoProject`
