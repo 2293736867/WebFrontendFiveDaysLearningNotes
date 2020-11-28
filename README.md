@@ -31,6 +31,19 @@
 - `node`是一个简单使用`express`的例子
 - 由于实践比较多故没有添加笔记
 
+# Day4
+使用`express`搭建的基础后端，包括：
+
+- 路由
+- `GET`/`POST`
+- 表单提交
+- 获取传递参数
+
+# Day5
+
+- `Node`操作`MySQL`
+- `CRUD`
+
 # DemoProject
 
 - 包含了`Bootstrap4`的一个空项目
