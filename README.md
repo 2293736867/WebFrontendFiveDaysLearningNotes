@@ -9,28 +9,29 @@
 [笔记](https://github.com/2293736867/WebFrontendFiveDaysLearningNotes/blob/master/Day1/Notes.md)
 
 # Day2
-## 1 内容
+内容主要概括如下：
+
 - 栅格系统
 - 表单
 - 居中
 - 各种组件：导航栏、下拉菜单等
 
-## 2 `Demo`
+4个小`Demo`：
 
 - `demo1`：轮播图
 - `demo2`：`pic.jpg`中的例子
 - `demo3`：一个首页的头部部分
 - `demos`：一些例子合集
 
-
-## 3 [笔记](https://github.com/2293736867/WebFrontendFiveDaysLearningNotes/blob/master/Day2/notes.md)
+[笔记](https://github.com/2293736867/WebFrontendFiveDaysLearningNotes/blob/master/Day2/notes.md)
 
 # Day3
 
 - `bootstrap`模仿了[这里](http://doc.canglaoshi.org/tstore_v1/web/index.html)组建了一个综合的页面
 - `node`是一个简单使用`express`的例子
+- 由于实践比较多故没有添加笔记
 
-# `DemoProject`
+# DemoProject
 
 - 包含了`Bootstrap4`的一个空项目
 - 仅作初始工程使用
