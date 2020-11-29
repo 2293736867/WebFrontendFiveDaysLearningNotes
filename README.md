@@ -44,6 +44,8 @@
 - `Node`操作`MySQL`
 - `CRUD`
 
+[笔记](https://github.com/2293736867/WebFrontendFiveDaysLearningNotes/blob/master/Day5/README.md)
+
 # DemoProject
 
 - 包含了`Bootstrap4`的一个空项目
